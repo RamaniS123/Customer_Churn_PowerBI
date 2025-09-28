@@ -15,10 +15,10 @@ The goal is to identify customers at risk of leaving, understand churn drivers, 
 ## Dashboard Screenshots
 
 ### Summary Dashboard
-![Churn Summary](Customer_Churn_Prediction.png)
+![Churn Summary](Customer_Churn_Summary.png)
 
 ### Prediction Dashboard
-![Churn Prediction](Customer_Churn_Summary.png)
+![Churn Prediction](Customer_Churn_Prediction.png)
 
 ## Machine Learning Model
 The predictive model was built with a **Random Forest Classifier**.
