@@ -66,15 +66,6 @@ Key findings from the dashboard and Power BI AI insights:
 - **Geography**:  
   Pennsylvania had the highest churn rate (**57.2%**), with Texas and Maryland following.  
 
----
-
-## Repository Structure
-- `Churn_Prediction.ipynb` → ML model (Random Forest) training and evaluation  
-- `Churn Analysis.pbix` → Power BI interactive dashboard   
-- `README.md` → Project overview and insights  
 
 
-##  How to Use
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/YourUsername/Customer_Churn_PowerBI.git
+
