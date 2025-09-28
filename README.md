@@ -66,6 +66,10 @@ Key findings from the dashboard and Power BI AI insights:
 - **Geography**:  
   Pennsylvania had the highest churn rate (**57.2%**), with Texas and Maryland following.  
 
-
+## What I Learned
+- How to **preprocess categorical data** and encode features for ML models.  
+- How to handle **imbalanced churn data** and interpret precision/recall trade-offs.  
+- Practical skills in **Power BI**: creating slicers, dynamic visuals, and integrating narratives using AI insights.  
+- How to combine **machine learning + BI dashboards** for storytelling and business impact. 
 
 
